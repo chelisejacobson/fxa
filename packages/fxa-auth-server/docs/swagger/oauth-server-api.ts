@@ -2,7 +2,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-import dedent from 'dedent';
+import dedent from './shared/dedent';
 import TAGS from './swagger-tags';
 
 const OAUTH_SERVER_API_DESCRIPTION = {
